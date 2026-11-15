@@ -1,0 +1,5 @@
+{
+  "name": "helfer-maennchen",
+  "owner": { "name": "helfer-maennchen" },
+  "plugins": [{ "name": "helfer-maennchen", "source": "./" }]
+}

@@ -1,0 +1,1 @@
+{ "name": "helfer-maennchen", "version": "0.1.0", "description": "Zeigt über dem Eingabefeld für jeden laufenden Sub-Agenten ein kostümiertes Pixel-Männchen mit seiner aktuellen Tätigkeit.", "types": "./types/index.d.ts" }
